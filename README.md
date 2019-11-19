@@ -5,7 +5,7 @@ José N. R.
 ## Herramientas
 
 - Node
-- Moongose
+- Mongoose
 - Express
 - Nodemon
 
